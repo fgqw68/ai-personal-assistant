@@ -1,0 +1,7 @@
+uvicorn
+dotenv
+fastmcp
+langchain_huggingface
+httpx
+fastapi
+python-docx
